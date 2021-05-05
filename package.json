@@ -1,0 +1,19 @@
+{
+  "name": "ionic_common_networking",
+  "version": "1.0.0",
+  "description": "Common library that handles networking",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayeedhussain/ionic_common_networking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayeedhussain/ionic_common_networking/issues"
+  },
+  "homepage": "https://github.com/sayeedhussain/ionic_common_networking#readme"
+}
